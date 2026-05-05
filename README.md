@@ -1,3 +1,4 @@
+> 🔁 Este projeto faz parte de uma série de evolução. Acompanhe a progressão: [sistema-padaria](https://github.com/Delattrin/sistema-padaria) → [sistema-padaria-oop](https://github.com/Delattrin/sistema-padaria-oop) → **sistema-notificacoes-padaria** → [Padaria-stock](https://github.com/Delattrin/Padaria-stock)
 # 📦 Sistema de Notificações - Padaria Canaã
 
 ## 🧠 Sobre o projeto
